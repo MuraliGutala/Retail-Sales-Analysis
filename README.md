@@ -103,9 +103,9 @@ Based on the Power BI dashboard:
 Monthly revenue was compared across the year to identify changes in sales performance. May recorded the highest monthly sales in the dashboard, at approximately ₹53,000.
 
 ## Dashboard Preview
-Power BI dashboard screenshot to the repository as `[Uploading image.png…]`.
+Power BI dashboard screenshot to the repository as `[retail_sales_analysis_Dashboard.png]`.
 
-![Retail Sales Analysis Dashboard](dashboard.png)
+![Retail Sales Analysis Dashboard](retail_sales_analysis_Dashboard.png)
 
 
 ## Project Outcome
